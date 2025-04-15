@@ -1,0 +1,6 @@
+gradio
+boto3
+rembg
+moviepy
+Pillow
+opencv-python
