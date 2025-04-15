@@ -4,3 +4,4 @@ rembg
 moviepy
 Pillow
 opencv-python
+onnxruntime
